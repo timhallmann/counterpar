@@ -1,0 +1,1 @@
+# Necessary for pytest-cov
